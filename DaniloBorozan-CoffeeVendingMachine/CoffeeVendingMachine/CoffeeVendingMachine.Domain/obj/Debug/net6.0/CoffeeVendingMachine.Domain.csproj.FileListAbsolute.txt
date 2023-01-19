@@ -1,0 +1,14 @@
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\bin\Debug\net6.0\CoffeeVendingMachine.Domain.deps.json
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\bin\Debug\net6.0\CoffeeVendingMachine.Domain.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\bin\Debug\net6.0\CoffeeVendingMachine.Domain.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\bin\Debug\net6.0\CoffeeVendingMachine.Domain.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\obj\Debug\net6.0\CoffeeVendingMachine.Domain.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\obj\Debug\net6.0\CoffeeVendingMachine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\obj\Debug\net6.0\CoffeeVendingMachine.Domain.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\obj\Debug\net6.0\CoffeeVendingMachine.Domain.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\obj\Debug\net6.0\CoffeeVendingMachine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\obj\Debug\net6.0\CoffeeVendingMachine.Domain.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\obj\Debug\net6.0\refint\CoffeeVendingMachine.Domain.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\obj\Debug\net6.0\CoffeeVendingMachine.Domain.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\obj\Debug\net6.0\CoffeeVendingMachine.Domain.genruntimeconfig.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Domain\obj\Debug\net6.0\ref\CoffeeVendingMachine.Domain.dll

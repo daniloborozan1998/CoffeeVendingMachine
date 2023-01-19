@@ -1,0 +1,12 @@
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\bin\Debug\net6.0\CoffeeVendingMachine.Shared.deps.json
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\bin\Debug\net6.0\CoffeeVendingMachine.Shared.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\bin\Debug\net6.0\CoffeeVendingMachine.Shared.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\obj\Debug\net6.0\CoffeeVendingMachine.Shared.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\obj\Debug\net6.0\CoffeeVendingMachine.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\obj\Debug\net6.0\CoffeeVendingMachine.Shared.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\obj\Debug\net6.0\CoffeeVendingMachine.Shared.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\obj\Debug\net6.0\CoffeeVendingMachine.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\obj\Debug\net6.0\CoffeeVendingMachine.Shared.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\obj\Debug\net6.0\refint\CoffeeVendingMachine.Shared.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\obj\Debug\net6.0\CoffeeVendingMachine.Shared.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Shared\obj\Debug\net6.0\ref\CoffeeVendingMachine.Shared.dll

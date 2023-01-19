@@ -1,0 +1,15 @@
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\bin\Debug\net6.0\CoffeeVendingMachine.Dtos.deps.json
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\bin\Debug\net6.0\CoffeeVendingMachine.Dtos.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\bin\Debug\net6.0\CoffeeVendingMachine.Dtos.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\obj\Debug\net6.0\CoffeeVendingMachine.Dtos.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\obj\Debug\net6.0\CoffeeVendingMachine.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\obj\Debug\net6.0\CoffeeVendingMachine.Dtos.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\obj\Debug\net6.0\CoffeeVendingMachine.Dtos.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\obj\Debug\net6.0\CoffeeVendingMachine.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\obj\Debug\net6.0\CoffeeVendingMachine.Dtos.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\obj\Debug\net6.0\refint\CoffeeVendingMachine.Dtos.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\obj\Debug\net6.0\CoffeeVendingMachine.Dtos.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\obj\Debug\net6.0\ref\CoffeeVendingMachine.Dtos.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\bin\Debug\net6.0\CoffeeVendingMachine.Domain.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\bin\Debug\net6.0\CoffeeVendingMachine.Domain.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Dtos\obj\Debug\net6.0\CoffeeVendingMachine.Dtos.csproj.CopyComplete

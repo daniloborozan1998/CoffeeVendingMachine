@@ -1,0 +1,17 @@
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\bin\Debug\net6.0\CoffeeVendingMachine.DataAccess.deps.json
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\bin\Debug\net6.0\CoffeeVendingMachine.DataAccess.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\bin\Debug\net6.0\CoffeeVendingMachine.DataAccess.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\bin\Debug\net6.0\CoffeeVendingMachine.DataAccess.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\bin\Debug\net6.0\CoffeeVendingMachine.Domain.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\bin\Debug\net6.0\CoffeeVendingMachine.Domain.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\CoffeeVendingMachine.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\CoffeeVendingMachine.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\CoffeeVendingMachine.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\CoffeeVendingMachine.DataAccess.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\CoffeeVendingMachine.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\CoffeeVendingMachine.DataAccess.csproj.CopyComplete
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\CoffeeVendingMachine.DataAccess.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\refint\CoffeeVendingMachine.DataAccess.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\CoffeeVendingMachine.DataAccess.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\CoffeeVendingMachine.DataAccess.genruntimeconfig.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.DataAccess\obj\Debug\net6.0\ref\CoffeeVendingMachine.DataAccess.dll

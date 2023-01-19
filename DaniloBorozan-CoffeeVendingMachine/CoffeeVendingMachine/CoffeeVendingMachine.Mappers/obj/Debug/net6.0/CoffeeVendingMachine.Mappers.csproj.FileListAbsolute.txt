@@ -1,0 +1,17 @@
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\bin\Debug\net6.0\CoffeeVendingMachine.Mappers.deps.json
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\bin\Debug\net6.0\CoffeeVendingMachine.Mappers.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\bin\Debug\net6.0\CoffeeVendingMachine.Mappers.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\obj\Debug\net6.0\CoffeeVendingMachine.Mappers.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\obj\Debug\net6.0\CoffeeVendingMachine.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\obj\Debug\net6.0\CoffeeVendingMachine.Mappers.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\obj\Debug\net6.0\CoffeeVendingMachine.Mappers.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\obj\Debug\net6.0\CoffeeVendingMachine.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\obj\Debug\net6.0\CoffeeVendingMachine.Mappers.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\obj\Debug\net6.0\refint\CoffeeVendingMachine.Mappers.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\obj\Debug\net6.0\CoffeeVendingMachine.Mappers.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\obj\Debug\net6.0\ref\CoffeeVendingMachine.Mappers.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\bin\Debug\net6.0\CoffeeVendingMachine.Domain.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\bin\Debug\net6.0\CoffeeVendingMachine.Dtos.dll
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\bin\Debug\net6.0\CoffeeVendingMachine.Dtos.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\bin\Debug\net6.0\CoffeeVendingMachine.Domain.pdb
+C:\Users\Danilo Borozan\Desktop\DaniloBorozan-CoffeeVendingMachine\CoffeeVendingMachine\CoffeeVendingMachine.Mappers\obj\Debug\net6.0\CoffeeVendingMachine.Mappers.csproj.CopyComplete
